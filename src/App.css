@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.false-word{
+  text-decoration: underline;
+   text-decoration-color: red;
+   margin: 5px;
+}
+.true-word{
+   margin: 5px;
+}
+.wrapped-text{
+  width: 90%;
+  height: 200px;
+  text-align: left;
+  border : 2px solid olive;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+  margin: 20px auto;
+}
